@@ -1,0 +1,19 @@
+# Secrets
+.env
+News API Keys.txt
+Twitter Sentiment API Keys.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Logs & runtime state
+*.log
+signal_state.json
+
+# Frontend deps
+frontend/node_modules/
+
+# Claude Code local settings
+.claude/
